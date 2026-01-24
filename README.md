@@ -32,7 +32,7 @@
 
 <!-- Tools -->
 <h2 style="color:#00ff99;margin-top:30px;text-align:center;">Tools</h2>
-<p align="center">
+<p>
   <!-- Wireshark -->
   <img src="https://cdn.simpleicons.org/wireshark/007ACC" width="40" title="Wireshark"/> <sub>Wireshark</sub> &nbsp;&nbsp;
 
