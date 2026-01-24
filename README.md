@@ -7,7 +7,7 @@
 
 <!-- About Me -->
 <h2 style="color:#00ff99;margin-top:30px;text-align:center;">About Me</h2>
-<p style="color:#c9d1d9;max-width:800px;font-size:1em;line-height:1.6;margin:auto;text-align:center;">
+<p style="color:#c9d1d9;max-width:800px;font-size:1.5em;line-height:1.6;margin:auto;text-align:center;">
   Hello! I am <strong>Mohamed Soussi</strong>, also known as <strong>lkwads</strong>.<br>
   I am currently studying at <strong>ESTG</strong>, specializing in <strong>Networking</strong> and <strong>Cybersecurity</strong>.<br>
   I have developed many projects available on my GitHub, and I am passionate about <strong>software development</strong> and <strong>cybersecurity</strong>.<br>
@@ -34,25 +34,25 @@
 <h2 style="color:#00ff99;margin-top:30px;text-align:center;">Tools</h2>
 <p>
   <!-- Wireshark -->
-  <img src="https://cdn.simpleicons.org/wireshark/007ACC" width="40" title="Wireshark"/> <sub>Wireshark</sub> &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/wireshark/007ACC" width="40" title="Wireshark"/> <sub style="font-size:60px;">Wireshark</sub> &nbsp;&nbsp;
 
   <!-- TCPDump (emoji) -->
-  <span style="font-size:40px;line-height:1;">📡</span> <sub>TCPDump</sub> &nbsp;&nbsp;
+  <span style="font-size:60px;line-height:1;">📡</span> <sub>TCPDump</sub> &nbsp;&nbsp;
 
   <!-- Nmap -->
-  <img src="https://img.icons8.com/color/48/000000/nmap.png" width="40" title="Nmap"/> <br><sub>Nmap</sub> &nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/nmap.png" width="40" title="Nmap"/> <br style="font-size:60px;"><sub>Nmap</sub> &nbsp;&nbsp;
 
   <!-- Burp Suite -->
-  <img src="https://cdn.simpleicons.org/burpsuite/FF6C00" width="40" title="Burp Suite"/> <sub>Burp Suite</sub> &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/burpsuite/FF6C00" width="40" title="Burp Suite"/> <sub style="font-size:60px;">Burp Suite</sub> &nbsp;&nbsp;
 
   <!-- John the Ripper (emoji) -->
-  <span style="font-size:40px;line-height:1;">🗝️</span> <sub>John & Hashcat</sub> &nbsp;&nbsp;
+  <span style="font-size:60px;line-height:1;">🗝️</span> <sub>John & Hashcat</sub> &nbsp;&nbsp;
 
   <!-- Netcat (emoji) -->
-  <span style="font-size:40px;line-height:1;">🔗</span> <sub>Netcat</sub> &nbsp;&nbsp;
+  <span style="font-size:60px;line-height:1;">🔗</span> <sub>Netcat</sub> &nbsp;&nbsp;
 
   <!-- Snort -->
-  <img src="https://cdn.simpleicons.org/snort/FF0000" width="40" title="Snort"/> <sub>Snort</sub>
+  <img src="https://cdn.simpleicons.org/snort/FF0000" width="60" title="Snort"/> <sub>Snort</sub>
 </p>
 
 
