@@ -12,8 +12,7 @@
 
   <!-- Description -->
   <p style="font-size:1em;line-height:1.5;color:#c9d1d9;max-width:600px;margin:auto;">
-    Hi! I'm <strong>Mohamed Soussi</strong>, a passionate <strong>Cybersecurity Student</strong> and <strong>CTF Player</strong> specializing in <strong>Forensics</strong>, <strong>Network CTF</strong>, and <strong>Web CTF</strong>.<br>
-    I love exploring vulnerabilities, analyzing digital artifacts, and solving complex challenges in CTF competitions.
+    Hi! I'm <strong>Mohamed Soussi</strong>, a passionate <strong>Cybersecurity Student</strong> and <strong>CTF Player</strong> specializing in <strong>Forensics</strong>, <strong>Network CTF</strong>, and <strong>Web CTF</strong>
   </p>
 
   <!-- Badges -->
