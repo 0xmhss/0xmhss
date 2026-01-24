@@ -16,78 +16,47 @@
 
 <!-- Skills & Technologies -->
 <h2 style="color:#00ff99;margin-top:30px;text-align:center;">Skills & Technologies</h2>
-<div style="display:flex;justify-content:center;align-items:center;gap:20px;margin-top:15px;flex-wrap:nowrap;overflow-x:auto;">
-  <div style="text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
-    <p style="font-size:0.8em;margin:0;">Python</p>
-  </div>
-  <div style="text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C"/>
-    <p style="font-size:0.8em;margin:0;">C</p>
-  </div>
-  <div style="text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
-    <p style="font-size:0.8em;margin:0;">C++</p>
-  </div>
-  <div style="text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML"/>
-    <p style="font-size:0.8em;margin:0;">HTML</p>
-  </div>
-  <div style="text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS"/>
-    <p style="font-size:0.8em;margin:0;">CSS</p>
-  </div>
-  <div style="text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-    <p style="font-size:0.8em;margin:0;">JS</p>
-  </div>
-  <div style="text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" title="Django"/>
-    <p style="font-size:0.8em;margin:0;">Django</p>
-  </div>
-  <div style="text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
-    <p style="font-size:0.8em;margin:0;">Linux & Bash</p>
-  </div>
-  <div style="text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="SQL"/>
-    <p style="font-size:0.8em;margin:0;">SQL</p>
-  </div>
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" title="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" title="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" title="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" title="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="60" title="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" title="Linux & Bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" title="SQL"/>
+</p>
+
 
 
 <!-- Tools -->
 <h2 style="color:#00ff99;margin-top:30px;text-align:center;">Tools</h2>
-<div style="display:flex;justify-content:center;flex-wrap:wrap;gap:20px;margin-top:15px;">
-  <div style="text-align:center;">
-    <img src="https://img.icons8.com/color/48/000000/wireshark.png" width="40" title="Wireshark"/>
-    <p style="font-size:0.8em;">Wireshark </p>
-  </div>
-  <div style="text-align:center;">
-    <img src="https://img.icons8.com/color/48/000000/tcpdump.png" width="40" title="TCPDump"/>
-    <p style="font-size:0.8em;">TCPDump </p>
-  </div>
-  <div style="text-align:center;">
-    <img src="https://img.icons8.com/color/48/000000/nmap.png" width="40" title="Nmap"/>
-    <p style="font-size:0.8em;">Nmap </p>
-  </div>
-  <div style="text-align:center;">
-    <img src="https://img.icons8.com/color/48/000000/burp-suite.png" width="40" title="Burp Suite"/>
-    <p style="font-size:0.8em;">Burp Suite </p>
-  </div>
-  <div style="text-align:center;">
-    <img src="https://img.icons8.com/color/48/000000/john-the-ripper.png" width="40" title="John & Hashcat"/>
-    <p style="font-size:0.8em;">John & Hashcat </p>
-  </div>
-  <div style="text-align:center;">
-    <img src="https://img.icons8.com/color/48/000000/netcat.png" width="40" title="Netcat"/>
-    <p style="font-size:0.8em;">Netcat </p>
-  </div>
-  <div style="text-align:center;">
-    <img src="https://img.icons8.com/color/48/000000/snort.png" width="40" title="Snort"/>
-    <p style="font-size:0.8em;">Snort </p>
-  </div>
-</div>
+<p align="center">
+  <!-- Wireshark -->
+  <img src="https://cdn.simpleicons.org/wireshark/007ACC" width="40" title="Wireshark"/> <sub>Wireshark</sub> &nbsp;&nbsp;
+
+  <!-- TCPDump (emoji) -->
+  <span style="font-size:40px;line-height:1;">📡</span> <sub>TCPDump</sub> &nbsp;&nbsp;
+
+  <!-- Nmap -->
+  <img src="https://img.icons8.com/color/48/000000/nmap.png" width="40" title="Nmap"/> <br><sub>Nmap</sub> &nbsp;&nbsp;
+
+  <!-- Burp Suite -->
+  <img src="https://cdn.simpleicons.org/burpsuite/FF6C00" width="40" title="Burp Suite"/> <sub>Burp Suite</sub> &nbsp;&nbsp;
+
+  <!-- John the Ripper (emoji) -->
+  <span style="font-size:40px;line-height:1;">🗝️</span> <sub>John & Hashcat</sub> &nbsp;&nbsp;
+
+  <!-- Netcat (emoji) -->
+  <span style="font-size:40px;line-height:1;">🔗</span> <sub>Netcat</sub> &nbsp;&nbsp;
+
+  <!-- Snort -->
+  <img src="https://cdn.simpleicons.org/snort/FF0000" width="40" title="Snort"/> <sub>Snort</sub>
+</p>
+
+
+
 
 
 <!-- Projects Section -->
