@@ -6,7 +6,7 @@
 </a>
 
 <!-- About Me -->
-<h2 style="color:#00ff99;margin-top:30px;text-align:center;">About Me</h2>
+<h2 style="color:#00ff99;margin-top:30px;text-align:center;">🧑‍💻 About Me</h2>
 <p style="color:#c9d1d9;max-width:800px;font-size:1.5em;line-height:1.6;margin:auto;text-align:center;">
   Hello! I am <strong>Mohamed Soussi</strong>, also known as <strong>lkwads</strong>.<br>
   I am currently studying at <strong>ESTG</strong>, specializing in <strong>Networking</strong> and <strong>Cybersecurity</strong>.<br>
@@ -15,7 +15,7 @@
 </p>
 
 <!-- Skills & Technologies -->
-<h2 style="color:#00ff99;margin-top:30px;text-align:center;">Skills & Technologies</h2>
+<h2 style="color:#00ff99;margin-top:30px;text-align:center;">💻 Skills & Technologies</h2>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" title="C"/>
@@ -31,36 +31,37 @@
 
 
 <!-- Tools -->
-<h2 style="color:#00ff99;margin-top:30px;text-align:center;">Tools</h2>
-<p>
+<h2 style="color:#00ff99;margin-top:30px;text-align:center;">🛠️ Tools</h2>
+<p  style="font-size:1.2em;">
   <!-- Wireshark -->
-  <img src="https://cdn.simpleicons.org/wireshark/007ACC" width="40" title="Wireshark"/> <sub style="font-size:60px;">Wireshark</sub> &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/wireshark/007ACC" width="40" title="Wireshark"/> <strong>Wireshark</strong> &nbsp;&nbsp;
 
   <!-- TCPDump (emoji) -->
-  <span style="font-size:60px;line-height:1;">📡</span> <sub>TCPDump</sub> &nbsp;&nbsp;
+  <span style="font-size:40px;line-height:1;">📡</span> <strong>TCPDump</strong> &nbsp;&nbsp;
 
   <!-- Nmap -->
-  <img src="https://img.icons8.com/color/48/000000/nmap.png" width="40" title="Nmap"/> <br style="font-size:60px;"><sub>Nmap</sub> &nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/nmap.png" width="40" title="Nmap"/> <strong>Nmap</strong> &nbsp;&nbsp;
 
   <!-- Burp Suite -->
-  <img src="https://cdn.simpleicons.org/burpsuite/FF6C00" width="40" title="Burp Suite"/> <sub style="font-size:60px;">Burp Suite</sub> &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/burpsuite/FF6C00" width="40" title="Burp Suite"/> <strong>Burp Suite</strong> &nbsp;&nbsp;
 
   <!-- John the Ripper (emoji) -->
-  <span style="font-size:60px;line-height:1;">🗝️</span> <sub>John & Hashcat</sub> &nbsp;&nbsp;
+  <span style="font-size:40px;line-height:1;">🗝️</span> <strong>John & Hashcat</strong> &nbsp;&nbsp;
 
   <!-- Netcat (emoji) -->
-  <span style="font-size:60px;line-height:1;">🔗</span> <sub>Netcat</sub> &nbsp;&nbsp;
+  <span style="font-size:40px;line-height:1;">🔗</span> <strong>Netcat</strong> &nbsp;&nbsp;
 
   <!-- Snort -->
-  <img src="https://cdn.simpleicons.org/snort/FF0000" width="60" title="Snort"/> <sub>Snort</sub>
+  <img src="https://cdn.simpleicons.org/snort/FF0000" width="40" title="Snort"/> <strong>Snort</strong>
 </p>
 
 
 
 
 
+
 <!-- Projects Section -->
-<h2 style="color:#00ff99;margin-top:30px;text-align:center;">Projects</h2>
+<h2 style="color:#00ff99;margin-top:30px;text-align:center;">🚀 Projects</h2>
 <div style="display:flex;flex-direction:column;gap:25px;max-width:900px;margin:auto;">
 
   <!-- Project 1 -->
@@ -117,3 +118,14 @@
   </div>
 
 </div>
+
+
+<h2 >🎯 Objective</h2>
+<p >
+My goal is to become an expert in <strong>networking</strong>, <strong>cybersecurity</strong>, and <strong>development</strong>, pushing my skills to the next level.<br>
+I aim to participate in advanced <strong>CTF challenges</strong> and forensics competitions to sharpen my <strong>problem-solving</strong> abilities.<br>
+I want to create innovative and secure projects, combining system programming, <strong>low-level development</strong>, and modern technologies.<br>
+I am passionate about learning new tools and techniques in <strong>networking</strong>, <strong>cybersecurity</strong>, <strong>programming</strong>, and <strong>penetration testing</strong>.<br>
+My mission is to contribute to open-source projects, collaborate with professionals, and grow as a proactive <strong>cybersecurity expert</strong>.<br>
+<strong>I strive to continuously evolve my knowledge</strong>, making an impact in both <strong>education and real-world cybersecurity challenges</strong>.
+</p>
