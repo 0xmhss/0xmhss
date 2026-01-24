@@ -16,44 +16,45 @@
 
 <!-- Skills & Technologies -->
 <h2 style="color:#00ff99;margin-top:30px;text-align:center;">Skills & Technologies</h2>
-<div style="display:flex;justify-content:center;flex-wrap:wrap;gap:15px;margin-top:15px;">
+<div style="display:flex;justify-content:center;align-items:center;gap:20px;margin-top:15px;flex-wrap:nowrap;overflow-x:auto;">
   <div style="text-align:center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
-    <p style="font-size:0.8em;">Python </p>
+    <p style="font-size:0.8em;margin:0;">Python</p>
   </div>
   <div style="text-align:center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C"/>
-    <p style="font-size:0.8em;">C </p>
+    <p style="font-size:0.8em;margin:0;">C</p>
   </div>
   <div style="text-align:center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
-    <p style="font-size:0.8em;">C++ </p>
+    <p style="font-size:0.8em;margin:0;">C++</p>
   </div>
   <div style="text-align:center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML"/>
-    <p style="font-size:0.8em;">HTML </p>
+    <p style="font-size:0.8em;margin:0;">HTML</p>
   </div>
   <div style="text-align:center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS"/>
-    <p style="font-size:0.8em;">CSS </p>
+    <p style="font-size:0.8em;margin:0;">CSS</p>
   </div>
   <div style="text-align:center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-    <p style="font-size:0.8em;">JS </p>
+    <p style="font-size:0.8em;margin:0;">JS</p>
   </div>
   <div style="text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="40" title="Django"/>
-    <p style="font-size:0.8em;">Django </p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" title="Django"/>
+    <p style="font-size:0.8em;margin:0;">Django</p>
   </div>
   <div style="text-align:center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
-    <p style="font-size:0.8em;">Linux & Bash </p>
+    <p style="font-size:0.8em;margin:0;">Linux & Bash</p>
   </div>
   <div style="text-align:center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="SQL"/>
-    <p style="font-size:0.8em;">SQL </p>
+    <p style="font-size:0.8em;margin:0;">SQL</p>
   </div>
 </div>
+
 
 <!-- Tools -->
 <h2 style="color:#00ff99;margin-top:30px;text-align:center;">Tools</h2>
