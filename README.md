@@ -8,7 +8,7 @@
 <!-- About Me -->
 <h2 style="color:#00ff99;margin-top:30px;text-align:center;">🧑‍💻 About Me</h2>
 <p style="color:#c9d1d9;max-width:800px;font-size:1.5em;line-height:1.6;margin:auto;text-align:center;">
-  Hello! I am <strong>Mohamed Soussi</strong>, also known as <strong>lkwads</strong>.<br>
+  Hello! I am <strong>Mohamed Soussi</strong>, also known as <strong>0xmhss</strong>.<br>
   I am currently studying at <strong>ESTG</strong>, specializing in <strong>Networking</strong> and <strong>Cybersecurity</strong>.<br>
   I have developed many projects available on my GitHub, and I am passionate about <strong>software development</strong> and <strong>cybersecurity</strong>.<br>
   I aim to improve myself in <strong>development</strong>, <strong>CTFs</strong>, and <strong>cybersecurity</strong>.
